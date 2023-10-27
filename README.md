@@ -8,7 +8,7 @@ This project focuses on creating and evaluating multiple machine learning models
 
 The dataset used in this project is the Kaggle Fake News Dataset. It contains labeled news articles, indicating whether they are real or fake. The dataset is a valuable resource for training and evaluating fake news detection models.
 
-- **Dataset Source:** [Kaggle Fake News Dataset](https://www.kaggle.com/fake-news](https://www.kaggle.com/datasets/jainpooja/fake-news-detection/))
+- **Dataset Source:** [Kaggle Fake News Dataset]([https://www.kaggle.com/fake-news](https://www.kaggle.com/datasets/jainpooja/fake-news-detection/))
 
 ## Project Contents
 
