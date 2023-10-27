@@ -1,7 +1,5 @@
 # Fake News Detection Model
 
-![Fake News Detection](fake-news-image.jpg)
-
 ## Overview
 
 This project focuses on creating and evaluating multiple machine learning models for Fake News Detection using the Kaggle Fake News Dataset. The objective is to classify news articles as either fake or real. The project employs a variety of machine learning algorithms including Logistic Regression, Gradient Boosting, XGBoost, Decision Trees, and Random Forest to determine the most effective model for detecting fake news.
