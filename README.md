@@ -6,9 +6,9 @@ This project focuses on creating and evaluating multiple machine learning models
 
 ## Dataset
 
-The dataset used in this project is the Kaggle Fake News Dataset. It contains labeled news articles, indicating whether they are real or fake. The dataset is a valuable resource for training and evaluating fake news detection models.
+The dataset used in this project is the [Kaggle Fake News Dataset](https://www.kaggle.com/datasets/jainpooja/fake-news-detection/). It contains labeled news articles, indicating whether they are real or fake. The dataset is a valuable resource for training and evaluating fake news detection models.
 
-- **Dataset Source:** [Kaggle Fake News Dataset]([https://www.kaggle.com/fake-news](https://www.kaggle.com/datasets/jainpooja/fake-news-detection/))
+- **Dataset Source:** [Kaggle Fake News Dataset](https://www.kaggle.com/datasets/jainpooja/fake-news-detection/)
 
 ## Project Contents
 
@@ -56,14 +56,6 @@ To run the Jupyter Notebook and explore the project:
 
 4. Run each cell in the notebook sequentially.
 
-## License
-
-This project is provided under an open-source license. You are free to use, modify, and distribute the code as per the terms of the license.
-
 ## Acknowledgments
 
-Special thanks to Kaggle for providing the Fake News Dataset, and to the open-source community for their contributions to the field of machine learning and natural language processing.
-
----
-
-Feel free to customize this README template with specific details about your project, including any additional features, insights, or improvements you may have implemented. This README serves as a starting point for your project documentation.
+Special thanks to Kaggle for providing the [Fake News Dataset](https://www.kaggle.com/datasets/jainpooja/fake-news-detection/), and to the open-source community for their contributions to the field of machine learning and natural language processing.
